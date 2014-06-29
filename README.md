@@ -2,7 +2,7 @@ OPC++
 =====
 <h1>como usar a classe OPCCLIENT</h1>
 <ol>
-            <div  style="HEIGHT: 230px; width: 600px">
+            <div  style="HEIGHT: 230px; width: 600px;">
                 <li>Método: StartCOM( );</li>
                 <ul>
                     <table border="1px">
