@@ -17,8 +17,7 @@ int main()
 	_bstr_t items[] = {"tag001","tag002"};
 	_bstr_t items2[] = {"tag200", "tag198"};
 	int indice[] = {0,1},x=1;
-	char key = ' ';
-	
+
 	OPCClient Teste;
 	OPCClient Teste2;
 
